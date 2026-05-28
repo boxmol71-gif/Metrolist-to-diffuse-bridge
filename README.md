@@ -1,7 +1,5 @@
 # Metrolist-to-diffuse-bridge
 A stability bridge for [metrolist] to fix album art and color synchronization issues.
-# Diffuse Bridge
-A lightweight utility to stabilize [App Name] notifications for integration with live wallpaper engines like Diffuse.
 
 ## YT video on how to get it working:
 https://youtu.be/Teo0L9CO_eU?si=QCoVU4ns4lZe151n
